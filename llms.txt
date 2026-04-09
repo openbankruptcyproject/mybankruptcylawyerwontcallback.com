@@ -1,0 +1,22 @@
+# Bankruptcy Lawyer Won't Call Back? -- What to Do [2026]
+> Bankruptcy lawyer ignoring your calls? Learn your rights, how to escalate, when to file a bar complaint, and how to protect your case. Step-by-step 2026 guide.
+
+## About
+mybankruptcylawyerwontcallback.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Bankruptcy Lawyer Won't Call Back? -- What to Do: https://mybankruptcylawyerwontcallback.com/
+- Your Right to Communication from Your Bankruptcy Attorney: https://mybankruptcylawyerwontcallback.com/your-rights.html
+- How to Escalate Communication Issues with Your Bankruptcy Attorney: https://mybankruptcylawyerwontcallback.com/how-to-escalate.html
+- How to File a Bar Complaint Against Your Bankruptcy Attorney: https://mybankruptcylawyerwontcallback.com/bar-complaints.html
+- How to Document Communication Failures: https://mybankruptcylawyerwontcallback.com/document-everything.html
+- When to Fire Your Bankruptcy Attorney: https://mybankruptcylawyerwontcallback.com/when-to-fire.html
+- Lawyer Won't Call Back FAQ -- What to Do When Your Attorney Is Unresponsive: https://mybankruptcylawyerwontcallback.com/frequently-asked-questions.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
