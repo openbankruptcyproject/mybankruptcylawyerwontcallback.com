@@ -16,18 +16,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>How to Document Communication Failures</title>
-<meta name="description" content="Learn about how to document communication failures | mybankruptcylawyerwontcallback.com in our free 2026 guide.">
-<link rel="canonical" href="https://mybankruptcylawyerwontcallback.com/document-everything.html">
-<meta property="og:title" content="How to Document Communication Failures">
-<meta property="og:description" content="Learn about how to document communication failures | mybankruptcylawyerwontcallback.com in our free 2026 guide.">
+<title>Your Right to Communication from Your Bankruptcy Attorney</title>
+<meta name="description" content="Learn about your right to communication from your bankruptcy attorney | mybankruptcylawyerwontcallback.com in our free 2026 guide.">
+<link rel="canonical" href="https://mybankruptcylawyerwontcallback.com/your-rights.html">
+<meta property="og:title" content="Your Right to Communication from Your Bankruptcy Attorney">
+<meta property="og:description" content="Learn about your right to communication from your bankruptcy attorney | mybankruptcylawyerwontcallback.com in our free 2026 guide.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://mybankruptcylawyerwontcallback.com/document-everything.html">
+<meta property="og:url" content="https://mybankruptcylawyerwontcallback.com/your-rights.html">
 <meta property="og:site_name" content="mybankruptcylawyerwontcallback.com">
 <meta property="og:image" content="/og-image.svg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="How to Document Communication Failures">
-<meta name="twitter:description" content="Learn about how to document communication failures | mybankruptcylawyerwontcallback.com in our free 2026 guide.">
+<meta name="twitter:title" content="Your Right to Communication from Your Bankruptcy Attorney">
+<meta name="twitter:description" content="Learn about your right to communication from your bankruptcy attorney | mybankruptcylawyerwontcallback.com in our free 2026 guide.">
 <meta name="twitter:image" content="/og-image.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.json">
@@ -42,8 +42,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Document Everything",
-      "description": "How to Document Communication Failures",
+      "headline": "Your Right to Attorney Communication",
+      "description": "Your Right to Communication from Your Bankruptcy Attorney",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -53,9 +53,9 @@
         "name": "Open Bankruptcy Project",
         "url": "https://1328f.org"
       },
-      "datePublished": "2026-04-02",
+      "datePublished": "2026-04-05",
       "dateModified": "2026-04-05",
-      "mainEntityOfPage": "https://mybankruptcylawyerwontcallback.com/document-everything.html"
+      "mainEntityOfPage": "https://mybankruptcylawyerwontcallback.com/your-rights.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -69,77 +69,21 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "How to Document Communication Failures | mybankruptcylawyerwontcallback.com",
+          "name": "Your Right to Communication from Your Bankruptcy Attorney | mybankruptcylawyerwontcallback.com",
           "item": "https://mybankruptcylawyerwontcallback.com"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Document Everything",
-          "item": "https://mybankruptcylawyerwontcallback.com/document-everything.html"
-        }
-      ]
-    },
-    {
-      "@type": "HowTo",
-      "name": "Document Everything",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n  gtag('config', 'G-053Z64N82F');\n\n\n\n\nHow to Docume"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 2,
-          "text": "Every email - Save all emails, including sent messages. Print or screenshot if your email provider deletes old messages"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 3,
-          "text": "Office visits - If you visit the office, note the date, who you spoke with, and what was discussed"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 4,
-          "text": "Promises made - If someone says \"the attorney will call you back by Friday,\" note it"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 5,
-          "text": "Impact on your case - Document any deadlines missed, hearings you were unprepared for, or decisions made without your input"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 6,
-          "text": "Date and time"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 7,
-          "text": "Method of communication (phone, email, letter, in-person)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 8,
-          "text": "What you requested or communicated"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 9,
-          "text": "What response you received (if any)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 10,
-          "text": "Follow-up needed"
+          "name": "Your Right to Attorney Communication",
+          "item": "https://mybankruptcylawyerwontcallback.com/your-rights.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Document Everything",
-      "url": "https://mybankruptcylawyerwontcallback.com/document-everything.html",
+      "name": "Your Right to Attorney Communication",
+      "url": "https://mybankruptcylawyerwontcallback.com/your-rights.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -376,32 +320,11 @@
 </style>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What to document?", "acceptedAnswer": {"@type": "Answer", "text": "Every call attempt - Date, time, who you spoke to (receptionist, voicemail, etc.), and whether you received a callback Every email - Save all emails, including sent messages."}}, {"@type": "Question", "name": "How to organize your records?", "acceptedAnswer": {"@type": "Answer", "text": "A simple chronological log works well. For each entry, record: Date and time Method of communication (phone, email, letter, in-person) What you requested or communicated What response you received (if any) Follow-up needed Why this matters: Bar associations require specific, documented allegations."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What the rules require?", "acceptedAnswer": {"@type": "Answer", "text": "Attorney communication is not a courtesy - it is an ethical obligation. The Rules of Professional Conduct set clear standards for how attorneys must communicate with clients."}}, {"@type": "Question", "name": "What this means in practice?", "acceptedAnswer": {"@type": "Answer", "text": "Your bankruptcy attorney should: Return phone calls and emails within a reasonable time (typically 1-3 business days) Inform you about court orders, trustee requests, and case developments Explain your options when decisions need to be made Prepare you before hearings and the 341 meeting Provide..."}}]}
 </script>
 
-<link rel="alternate" hreflang="en" href="https://mybankruptcylawyerwontcallback.com/document-everything.html">
-<link rel="alternate" hreflang="es" href="https://mybankruptcylawyerwontcallback.com/document-everything-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://mybankruptcylawyerwontcallback.com/your-rights.html">
+<link rel="alternate" hreflang="es" href="https://mybankruptcylawyerwontcallback.com/your-rights-es.html">
 </head>
 <body>
 <nav aria-label="Main navigation">
@@ -409,10 +332,10 @@
   <button class="hamburger" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776;</button>
   <div class="nav-links" id="nav-links">
     <a href="/" class="">Home</a>
-    <a href="/your-rights.html">Your Right to Communication</a>
+    <a href="/your-rights.html" class="active">Your Right to Communication</a>
     <a href="/how-to-escalate.html">How to Escalate Communication</a>
     <a href="/bar-complaints.html">How to File a</a>
-    <a href="/document-everything.html" class="active">How to Document Communication</a>
+    <a href="/document-everything.html">How to Document Communication</a>
     <a href="/when-to-fire.html">When to Fire Your</a>
   </div>
 </nav>
@@ -432,39 +355,39 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <div class="hero">
-  <h1>Document <span class='accent'>Everything</span></h1>
+  <h1>Your Right to <span class="accent">Attorney Communication</span></h1>
 </div>
 
 <main id="main-content">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://mybankruptcylawyerwontcallback.com">How to Document Communication Failures | mybankruptcylawyerwontcallback.com</a><span class="separator">&rsaquo;</span><span>Document Everything</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://mybankruptcylawyerwontcallback.com">Your Right to Communication from Your Bankruptcy Attorney | mybankruptcylawyerwontcallback.com</a><span class="separator">&rsaquo;</span><span>Your Right to Attorney Communication</span></nav>
 
 
 
 <div class="content-section">
-  <h2>Building a record of communication failures</h2>
-  <p>If you eventually need to file a complaint, change attorneys, or raise issues with the court, having a detailed record is essential. Start documenting now.</p>
+  <h2>What the rules require</h2>
+  <p>Attorney communication is not a courtesy - it is an ethical obligation. The Rules of Professional Conduct set clear standards for how attorneys must communicate with clients.</p>
 
-  <h3>What to document</h3>
+  <h3>Model Rule 1.4: Communication</h3>
   <ul>
-    <li><strong>Every call attempt</strong> - Date, time, who you spoke to (receptionist, voicemail, etc.), and whether you received a callback</li>
-    <li><strong>Every email</strong> - Save all emails, including sent messages. Print or screenshot if your email provider deletes old messages</li>
-    <li><strong>Office visits</strong> - If you visit the office, note the date, who you spoke with, and what was discussed</li>
-    <li><strong>Promises made</strong> - If someone says "the attorney will call you back by Friday," note it</li>
-    <li><strong>Impact on your case</strong> - Document any deadlines missed, hearings you were unprepared for, or decisions made without your input</li>
+    <li><strong>(a)(1)</strong> - Promptly inform the client of any decision or circumstance requiring the client's informed consent</li>
+    <li><strong>(a)(2)</strong> - Reasonably consult with the client about the means by which the client's objectives are to be accomplished</li>
+    <li><strong>(a)(3)</strong> - Keep the client reasonably informed about the status of the matter</li>
+    <li><strong>(a)(4)</strong> - Promptly comply with reasonable requests for information</li>
+    <li><strong>(b)</strong> - Explain matters to the extent reasonably necessary for the client to make informed decisions</li>
   </ul>
 
-  <h3>How to organize your records</h3>
-  <p>A simple chronological log works well. For each entry, record:</p>
-  <ol>
-    <li>Date and time</li>
-    <li>Method of communication (phone, email, letter, in-person)</li>
-    <li>What you requested or communicated</li>
-    <li>What response you received (if any)</li>
-    <li>Follow-up needed</li>
-  </ol>
+  <h3>What this means in practice</h3>
+  <p>Your bankruptcy attorney should:</p>
+  <ul>
+    <li>Return phone calls and emails within a reasonable time (typically 1-3 business days)</li>
+    <li>Inform you about court orders, trustee requests, and case developments</li>
+    <li>Explain your options when decisions need to be made</li>
+    <li>Prepare you before hearings and the <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">341 meeting</a></li>
+    <li>Provide copies of documents filed on your behalf</li>
+  </ul>
 
-  <div class="statute-box">
-    <p><strong>Why this matters:</strong> Bar associations require specific, documented allegations. "My attorney never calls me back" is less compelling than "I called on 3/1, 3/5, 3/8, and 3/12, left voicemails each time, and sent two emails. I received no response until I sent a letter threatening a bar complaint on 3/15."</p>
+  <div class="warning-box">
+    <p><strong>Persistent non-communication is an ethical violation.</strong> If your attorney consistently fails to return calls, respond to emails, or keep you informed about your case, they are violating Model Rule 1.4. This is grounds for a bar complaint.</p>
   </div>
 </div>
 
@@ -486,7 +409,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
 </div>
 

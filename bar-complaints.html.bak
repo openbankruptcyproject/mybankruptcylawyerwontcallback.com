@@ -16,18 +16,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>How to Document Communication Failures</title>
-<meta name="description" content="Learn about how to document communication failures | mybankruptcylawyerwontcallback.com in our free 2026 guide.">
-<link rel="canonical" href="https://mybankruptcylawyerwontcallback.com/document-everything.html">
-<meta property="og:title" content="How to Document Communication Failures">
-<meta property="og:description" content="Learn about how to document communication failures | mybankruptcylawyerwontcallback.com in our free 2026 guide.">
+<title>How to File a Bar Complaint Against Your Bankruptcy Attorney</title>
+<meta name="description" content="Learn about how to file a bar complaint against your bankruptcy attorney | mybankruptcylawyerwontcallback.com in our free 2026 g...">
+<link rel="canonical" href="https://mybankruptcylawyerwontcallback.com/bar-complaints.html">
+<meta property="og:title" content="How to File a Bar Complaint Against Your Bankruptcy Attorney">
+<meta property="og:description" content="Learn about how to file a bar complaint against your bankruptcy attorney | mybankruptcylawyerwontcallback.com in our free 2026 g...">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://mybankruptcylawyerwontcallback.com/document-everything.html">
+<meta property="og:url" content="https://mybankruptcylawyerwontcallback.com/bar-complaints.html">
 <meta property="og:site_name" content="mybankruptcylawyerwontcallback.com">
 <meta property="og:image" content="/og-image.svg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="How to Document Communication Failures">
-<meta name="twitter:description" content="Learn about how to document communication failures | mybankruptcylawyerwontcallback.com in our free 2026 guide.">
+<meta name="twitter:title" content="How to File a Bar Complaint Against Your Bankruptcy Attorney">
+<meta name="twitter:description" content="Learn about how to file a bar complaint against your bankruptcy attorney | mybankruptcylawyerwontcallback.com in our free 2026 g...">
 <meta name="twitter:image" content="/og-image.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.json">
@@ -42,8 +42,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Document Everything",
-      "description": "How to Document Communication Failures",
+      "headline": "Filing a Bar Complaint",
+      "description": "How to File a Bar Complaint Against Your Bankruptcy Attorney",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -53,9 +53,9 @@
         "name": "Open Bankruptcy Project",
         "url": "https://1328f.org"
       },
-      "datePublished": "2026-04-02",
+      "datePublished": "2026-04-05",
       "dateModified": "2026-04-05",
-      "mainEntityOfPage": "https://mybankruptcylawyerwontcallback.com/document-everything.html"
+      "mainEntityOfPage": "https://mybankruptcylawyerwontcallback.com/bar-complaints.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -69,77 +69,72 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "How to Document Communication Failures | mybankruptcylawyerwontcallback.com",
+          "name": "How to File a Bar Complaint Against Your Bankruptcy Attorney | mybankruptcylawyerwontcallback.com",
           "item": "https://mybankruptcylawyerwontcallback.com"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Document Everything",
-          "item": "https://mybankruptcylawyerwontcallback.com/document-everything.html"
+          "name": "Filing a Bar Complaint",
+          "item": "https://mybankruptcylawyerwontcallback.com/bar-complaints.html"
         }
       ]
     },
     {
       "@type": "HowTo",
-      "name": "Document Everything",
+      "name": "Filing a Bar Complaint",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n  gtag('config', 'G-053Z64N82F');\n\n\n\n\nHow to Docume"
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n  gtag('config', 'G-053Z64N82F');\n\n\n\n\nHow to File a"
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "text": "Every email - Save all emails, including sent messages. Print or screenshot if your email provider deletes old messages"
+          "text": "The attorney's name, bar number (if known), and firm"
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "text": "Office visits - If you visit the office, note the date, who you spoke with, and what was discussed"
+          "text": "A clear, factual description of what happened"
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "text": "Promises made - If someone says \"the attorney will call you back by Friday,\" note it"
+          "text": "Dates and details of your attempts to contact the attorney"
         },
         {
           "@type": "HowToStep",
           "position": 5,
-          "text": "Impact on your case - Document any deadlines missed, hearings you were unprepared for, or decisions made without your input"
+          "text": "Copies of any correspondence (emails, letters, retainer agreement)"
         },
         {
           "@type": "HowToStep",
           "position": 6,
-          "text": "Date and time"
+          "text": "Your case number and court"
         },
         {
           "@type": "HowToStep",
           "position": 7,
-          "text": "Method of communication (phone, email, letter, in-person)"
+          "text": "Screening - The bar reviews the complaint to determine if it alleges a rule violation"
         },
         {
           "@type": "HowToStep",
           "position": 8,
-          "text": "What you requested or communicated"
+          "text": "Investigation - If the complaint passes screening, the attorney is notified and asked to respond"
         },
         {
           "@type": "HowToStep",
           "position": 9,
-          "text": "What response you received (if any)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 10,
-          "text": "Follow-up needed"
+          "text": "Resolution - Possible outcomes include dismissal, informal resolution, private reprimand, public reprimand, suspension, or disbarment"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Document Everything",
-      "url": "https://mybankruptcylawyerwontcallback.com/document-everything.html",
+      "name": "Filing a Bar Complaint",
+      "url": "https://mybankruptcylawyerwontcallback.com/bar-complaints.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -376,32 +371,11 @@
 </style>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What to document?", "acceptedAnswer": {"@type": "Answer", "text": "Every call attempt - Date, time, who you spoke to (receptionist, voicemail, etc.), and whether you received a callback Every email - Save all emails, including sent messages."}}, {"@type": "Question", "name": "How to organize your records?", "acceptedAnswer": {"@type": "Answer", "text": "A simple chronological log works well. For each entry, record: Date and time Method of communication (phone, email, letter, in-person) What you requested or communicated What response you received (if any) Follow-up needed Why this matters: Bar associations require specific, documented allegations."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What to include?", "acceptedAnswer": {"@type": "Answer", "text": "Your name and contact information The attorney's name, bar number (if known), and firm A clear, factual description of what happened Dates and details of your attempts to contact the attorney Copies of any correspondence (emails, letters, retainer agreement) Your case number and court"}}, {"@type": "Question", "name": "What happens after you file?", "acceptedAnswer": {"@type": "Answer", "text": "Screening - The bar reviews the complaint to determine if it alleges a rule violation Investigation - If the complaint passes screening, the attorney is notified and asked to respond Resolution - Possible outcomes include dismissal, informal resolution, private reprimand, public reprimand,..."}}, {"@type": "Question", "name": "How to find your state bar's complaint process?", "acceptedAnswer": {"@type": "Answer", "text": "Search for \"[your state] bar association attorney complaint\" or \"[your state] lawyer disciplinary board.\" Every state has a process, though the specific agency name varies. Note: Filing a bar complaint does not automatically get you a refund, a new attorney, or a different outcome in your case."}}]}
 </script>
 
-<link rel="alternate" hreflang="en" href="https://mybankruptcylawyerwontcallback.com/document-everything.html">
-<link rel="alternate" hreflang="es" href="https://mybankruptcylawyerwontcallback.com/document-everything-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://mybankruptcylawyerwontcallback.com/bar-complaints.html">
+<link rel="alternate" hreflang="es" href="https://mybankruptcylawyerwontcallback.com/bar-complaints-es.html">
 </head>
 <body>
 <nav aria-label="Main navigation">
@@ -411,8 +385,8 @@
     <a href="/" class="">Home</a>
     <a href="/your-rights.html">Your Right to Communication</a>
     <a href="/how-to-escalate.html">How to Escalate Communication</a>
-    <a href="/bar-complaints.html">How to File a</a>
-    <a href="/document-everything.html" class="active">How to Document Communication</a>
+    <a href="/bar-complaints.html" class="active">How to File a</a>
+    <a href="/document-everything.html">How to Document Communication</a>
     <a href="/when-to-fire.html">When to Fire Your</a>
   </div>
 </nav>
@@ -432,39 +406,40 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <div class="hero">
-  <h1>Document <span class='accent'>Everything</span></h1>
+  <h1>Filing a <span class="accent">Bar Complaint</span></h1>
 </div>
 
 <main id="main-content">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://mybankruptcylawyerwontcallback.com">How to Document Communication Failures | mybankruptcylawyerwontcallback.com</a><span class="separator">&rsaquo;</span><span>Document Everything</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://mybankruptcylawyerwontcallback.com">How to File a Bar Complaint Against Your Bankruptcy Attorney | mybankruptcylawyerwontcallback.com</a><span class="separator">&rsaquo;</span><span>Filing a Bar Complaint</span></nav>
 
 
 
 <div class="content-section">
-  <h2>Building a record of communication failures</h2>
-  <p>If you eventually need to file a complaint, change attorneys, or raise issues with the court, having a detailed record is essential. Start documenting now.</p>
+  <h2>The bar complaint process</h2>
+  <p>If your bankruptcy attorney consistently fails to communicate or otherwise violates their ethical obligations, you can file a complaint with the attorney's licensing state bar association.</p>
 
-  <h3>What to document</h3>
+  <h3>What to include</h3>
   <ul>
-    <li><strong>Every call attempt</strong> - Date, time, who you spoke to (receptionist, voicemail, etc.), and whether you received a callback</li>
-    <li><strong>Every email</strong> - Save all emails, including sent messages. Print or screenshot if your email provider deletes old messages</li>
-    <li><strong>Office visits</strong> - If you visit the office, note the date, who you spoke with, and what was discussed</li>
-    <li><strong>Promises made</strong> - If someone says "the attorney will call you back by Friday," note it</li>
-    <li><strong>Impact on your case</strong> - Document any deadlines missed, hearings you were unprepared for, or decisions made without your input</li>
+    <li>Your name and contact information</li>
+    <li>The attorney's name, bar number (if known), and firm</li>
+    <li>A clear, factual description of what happened</li>
+    <li>Dates and details of your attempts to contact the attorney</li>
+    <li>Copies of any correspondence (emails, letters, retainer agreement)</li>
+    <li>Your case number and court</li>
   </ul>
 
-  <h3>How to organize your records</h3>
-  <p>A simple chronological log works well. For each entry, record:</p>
+  <h3>What happens after you file</h3>
   <ol>
-    <li>Date and time</li>
-    <li>Method of communication (phone, email, letter, in-person)</li>
-    <li>What you requested or communicated</li>
-    <li>What response you received (if any)</li>
-    <li>Follow-up needed</li>
+    <li><strong>Screening</strong> - The bar reviews the complaint to determine if it alleges a rule violation</li>
+    <li><strong>Investigation</strong> - If the complaint passes screening, the attorney is notified and asked to respond</li>
+    <li><strong>Resolution</strong> - Possible outcomes include <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>, informal resolution, private reprimand, public reprimand, suspension, or disbarment</li>
   </ol>
 
-  <div class="statute-box">
-    <p><strong>Why this matters:</strong> Bar associations require specific, documented allegations. "My attorney never calls me back" is less compelling than "I called on 3/1, 3/5, 3/8, and 3/12, left voicemails each time, and sent two emails. I received no response until I sent a letter threatening a bar complaint on 3/15."</p>
+  <h3>How to find your state bar's complaint process</h3>
+  <p>Search for "[your state] bar association attorney complaint" or "[your state] lawyer disciplinary board." Every state has a process, though the specific agency name varies.</p>
+
+  <div class="yellow-box">
+    <p><strong>Note:</strong> Filing a bar complaint does not automatically get you a refund, a new attorney, or a different outcome in your case. It is a disciplinary process focused on attorney conduct. For fee disputes, use the court's fee review process under <a href="https://section329.org" title="Section 329 Attorney Fee Disgorgement - Open Bankruptcy Project" target="_blank" rel="noopener">Section 329</a>.</p>
   </div>
 </div>
 
@@ -486,7 +461,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
 </div>
 
