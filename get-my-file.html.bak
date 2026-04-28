@@ -414,7 +414,7 @@
   </div>
 </nav>
 <div class="obp-banner" style="background:#151b23;border-bottom:1px solid #252d38;padding:8px 16px;text-align:center;font-size:0.82rem;color:#7d8590;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
-  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - <span data-obp-c="domains">180+</span> free domains, <span data-obp-c="pages">20,000+</span> pages, $0 hosting
+  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - 161+ free domains, 115,000+ pages, $0 cost
 </div>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -455,12 +455,12 @@ document.addEventListener('DOMContentLoaded', function() {
   <p>The right to the file is one of the most uniformly settled questions in the law of lawyering. Every U.S. jurisdiction has adopted the rule in materially identical form. The doctrinal authorities are unanimous and the principle is hard. The only meaningful inter-jurisdictional variation concerns the precise scope of what counts as "the file" (see below), not whether the client is entitled to it.</p>
   <p>The controlling sources are these:</p>
   <ul>
-    <li><strong><a href="https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_16_declining_or_terminating_representation/" rel="noopener" target="_blank">ABA Model Rule of Professional Conduct 1.16(d)</a></strong> - the controlling ethical rule, adopted in every U.S. state and the District of Columbia.</li>
-    <li><strong><a href="https://en.wikipedia.org/wiki/Restatement_of_the_Law_Governing_Lawyers" rel="noopener" target="_blank">Restatement (Third) of the Law Governing Lawyers Section 46 (2000)</a></strong> - "Documents Relating to a Representation": on request, a lawyer must allow a client or former client to inspect and copy any document possessed by the lawyer relating to the representation, unless substantial grounds exist to refuse. (The Restatement itself is published by the American Law Institute and available primarily through legal-research databases; the link is to the Wikipedia article describing the publication.)</li>
-    <li><strong>ABA Formal Opinion 471 (2015)</strong> - addresses the lawyer's obligation to surrender the file on termination of representation, and confirms the narrow limits of any retaining-lien or fee-dispute exception. (ABA Formal Opinions are typically available through ABA membership or legal-research databases.)</li>
-    <li><strong><a href="https://law.justia.com/cases/new-york/court-of-appeals/1997/91-n-y-2d-30-0.html" rel="noopener" target="_blank">Sage Realty Corp. v. Proskauer Rose Goetz &amp; Mendelsohn, L.L.P.,</a></strong> 91 N.Y.2d 30 (1997) - landmark state-court adoption of the entire-file rule and the underlying principle that the client owns the file. (Free version via Justia.)</li>
-    <li><strong>State equivalents:</strong> KRPC 1.16(d) (Kansas), Mo. Rule of Professional Conduct 4-1.16(d) (Missouri), Wis. SCR 20:1.16(d) (Wisconsin), and the equivalent rule in every other state. Rule numbering varies; the duty does not. State rules are published by each state's Supreme Court or bar association.</li>
-    <li><strong>Federal bankruptcy authority:</strong> <a href="https://www.law.cornell.edu/uscode/text/11/329" rel="noopener" target="_blank">11 U.S.C. Section 329</a> and <a href="https://www.law.cornell.edu/uscode/text/11/330" rel="noopener" target="_blank">Section 330</a>, and <a href="https://www.law.cornell.edu/rules/frbp/rule_9011" rel="noopener" target="_blank">Federal Rule of Bankruptcy Procedure 9011</a>, give the bankruptcy court independent authority over attorney conduct in cases before it - parallel to and additional to state disciplinary authority.</li>
+    <li><strong>ABA Model Rule of Professional Conduct 1.16(d)</strong> - the controlling ethical rule, adopted in every U.S. state and the District of Columbia.</li>
+    <li><strong>Restatement (Third) of the Law Governing Lawyers Section 46 (2000)</strong> - "Documents Relating to a Representation": on request, a lawyer must allow a client or former client to inspect and copy any document possessed by the lawyer relating to the representation, unless substantial grounds exist to refuse.</li>
+    <li><strong>ABA Formal Opinion 471 (2015)</strong> - addresses the lawyer's obligation to surrender the file on termination of representation, and confirms the narrow limits of any retaining-lien or fee-dispute exception.</li>
+    <li><strong>Sage Realty Corp. v. Proskauer Rose Goetz &amp; Mendelsohn, L.L.P.,</strong> 91 N.Y.2d 30 (1997) - landmark state-court adoption of the entire-file rule and the underlying principle that the client owns the file.</li>
+    <li><strong>State equivalents:</strong> KRPC 1.16(d) (Kansas), Mo. Rule of Professional Conduct 4-1.16(d) (Missouri), Wis. SCR 20:1.16(d) (Wisconsin), and the equivalent rule in every other state. Rule numbering varies; the duty does not.</li>
+    <li><strong>Federal bankruptcy authority:</strong> 11 U.S.C. Sections 329 and 330, and Federal Rule of Bankruptcy Procedure 9011, give the bankruptcy court independent authority over attorney conduct in cases before it - parallel to and additional to state disciplinary authority.</li>
   </ul>
   <p><strong>Practitioner consensus tracks the doctrinal one.</strong> An experienced bankruptcy malpractice attorney consulted on this question will tell a former client that the file is owed <em>end to end</em> - the entire matter, not selected pieces, not summaries, not redacted excerpts, not "what the firm thinks you need." That is the bar's own professional view, not a debtor's preferred reading. It is what one practitioner consults another practitioner about and gets the same answer back.</p>
   <p><strong>The duty is unconditional in every meaningful sense.</strong> It does not depend on, and cannot be conditioned on:</p>
@@ -532,7 +532,7 @@ document.addEventListener('DOMContentLoaded', function() {
   <p>This is a <strong>retaining lien</strong>. ABA Formal Opinion 471 (2015) confirms the narrow scope of any such lien and reaffirms the duty to surrender despite a fee dispute. A majority of jurisdictions either prohibit retaining liens outright or limit them so narrowly that they almost never apply when (a) withdrawal is by the attorney rather than the client, (b) court approval was required, or (c) withholding the file would prejudice the client's matter. <em>A pending bankruptcy case almost always satisfies the prejudice test.</em> Even where retaining liens technically exist, most state ethics opinions hold that asserting one to leverage payment of disputed fees is itself sanctionable. <a href="https://section329.org">11 U.S.C. Section 329</a> independently authorizes the bankruptcy court to review and disgorge attorney compensation in the case, and Section 330 makes attorney compensation in a bankruptcy case court-supervised regardless of any private fee dispute.</p>
 
   <h3>"The firm withdrew, not me personally - so it's not my duty."</h3>
-  <p>Rule 1.16(d) attaches to <strong>every lawyer</strong> who appeared. If multiple attorneys entered appearances and one withdrew, Rule 1.16(d) is the withdrawing attorney's duty as to her individual share, and Model Rule 5.1 makes the firm's partners and supervisory lawyers separately responsible for ensuring compliance by every lawyer in the firm. Withdrawal of the firm as a whole means all attorneys of record have parallel 1.16(d) duties; each is personally responsible. Withdrawal of one attorney while others remain does not, by itself, transfer the duty - it remains with the withdrawing lawyer for what she is leaving behind. There is no defense based on the continued presence of co-counsel or the firm's overall withdrawal posture. The duty is personal to each lawyer of record, exercised individually.</p>
+  <p>Rule 1.16(d) attaches to <strong>every lawyer</strong> who appeared. If five attorneys entered appearances and one withdrew, Rule 1.16(d) is the withdrawing attorney's duty as to her individual share, and Model Rule 5.1 makes the firm's partners and supervisory lawyers separately responsible for ensuring compliance by every lawyer in the firm. Withdrawal of the firm as a whole means all attorneys of record have parallel 1.16(d) duties; each is personally responsible. Withdrawal of one attorney while others remain does not, by itself, transfer the duty - it remains with the withdrawing lawyer for what she is leaving behind. There is no "the firm has it" defense; there is no "ask the partners" deflection. The duty is personal to each lawyer of record.</p>
 
   <h3>"You'll get it after we get formal substitution of counsel."</h3>
   <p>Rule 1.16(d) does not condition file-return on substitution. The duty runs to <strong>the client</strong>, not to successor counsel. A client who has no successor (pro se) is entitled to the file on the same terms and timing as a client who is represented. State ethics opinions have specifically and repeatedly rejected the "wait for successor" excuse. Restatement (Third) Section 46 frames the right as belonging to the client or former client, not to a downstream attorney.</p>
@@ -649,39 +649,38 @@ cc: [supervising attorney / firm managing partner, if known]
 
   <h3>Controlling ethical rule (every U.S. state and D.C.)</h3>
   <ul>
-    <li><a href="https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_16_declining_or_terminating_representation/" rel="noopener" target="_blank">ABA Model Rule of Professional Conduct 1.16(d)</a></li>
+    <li>ABA Model Rule of Professional Conduct 1.16(d)</li>
     <li>Kansas Rule of Professional Conduct 1.16(d) (Kansas)</li>
     <li>Missouri Rule of Professional Conduct 4-1.16(d) (Missouri)</li>
     <li>Wisconsin Supreme Court Rule 20:1.16(d) (Wisconsin)</li>
-    <li>Equivalent rule in every other U.S. state and the District of Columbia (rule numbering varies; the duty does not). State rules are published by each state's Supreme Court or bar association.</li>
-    <li><a href="https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_5_1_responsibilities_of_a_partner_or_supervisory_lawyer/" rel="noopener" target="_blank">ABA Model Rule of Professional Conduct 5.1</a> (responsibilities of partners and supervisory lawyers within the firm)</li>
+    <li>Equivalent rule in every other U.S. state and the District of Columbia (rule numbering varies; the duty does not)</li>
+    <li>ABA Model Rule of Professional Conduct 5.1 (responsibilities of partners and supervisory lawyers within the firm)</li>
   </ul>
 
   <h3>Synthesizing doctrinal authority</h3>
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Restatement_of_the_Law_Governing_Lawyers" rel="noopener" target="_blank">Restatement (Third) of the Law Governing Lawyers Section 46 (2000)</a> - "Documents Relating to a Representation"</li>
-    <li>Restatement (Third) of the Law Governing Lawyers Section 33 - termination of attorney-client relationship (published by the American Law Institute; primarily available through legal-research databases)</li>
+    <li>Restatement (Third) of the Law Governing Lawyers Section 46 (2000) - "Documents Relating to a Representation"</li>
+    <li>Restatement (Third) of the Law Governing Lawyers Section 33 - termination of attorney-client relationship</li>
   </ul>
 
   <h3>ABA formal opinions</h3>
   <ul>
-    <li>ABA Formal Opinion 471 (2015) - the lawyer's obligation to surrender papers and property to the former client on termination of representation; narrow scope of any retaining-lien exception (typically available through ABA membership or legal-research databases)</li>
+    <li>ABA Formal Opinion 471 (2015) - the lawyer's obligation to surrender papers and property to the former client on termination of representation; narrow scope of any retaining-lien exception</li>
   </ul>
 
   <h3>Leading state-court authority on the entire-file rule (majority approach)</h3>
   <ul>
-    <li><em><a href="https://law.justia.com/cases/new-york/court-of-appeals/1997/91-n-y-2d-30-0.html" rel="noopener" target="_blank">Sage Realty Corp. v. Proskauer Rose Goetz &amp; Mendelsohn, L.L.P.,</a></em> 91 N.Y.2d 30, 689 N.E.2d 879, 666 N.Y.S.2d 985 (1997) (free version via Justia)</li>
+    <li><em>Sage Realty Corp. v. Proskauer Rose Goetz &amp; Mendelsohn, L.L.P.,</em> 91 N.Y.2d 30, 689 N.E.2d 879, 666 N.Y.S.2d 985 (1997)</li>
     <li>Numerous state bar ethics opinions following the entire-file framework, including opinions issued in Illinois, Iowa, Massachusetts, Oregon, Washington, the District of Columbia, and California</li>
   </ul>
 
   <h3>Federal bankruptcy authority (parallel and additional)</h3>
   <ul>
-    <li><a href="https://www.law.cornell.edu/uscode/text/11/329" rel="noopener" target="_blank">11 U.S.C. Section 329</a> - court review and disgorgement of debtor's transactions with attorneys</li>
-    <li><a href="https://www.law.cornell.edu/uscode/text/11/330" rel="noopener" target="_blank">11 U.S.C. Section 330</a> - court approval of attorney compensation in bankruptcy</li>
-    <li><a href="https://www.law.cornell.edu/rules/frbp/rule_9011" rel="noopener" target="_blank">Federal Rule of Bankruptcy Procedure 9011</a> - court oversight of attorneys appearing in bankruptcy cases</li>
+    <li>11 U.S.C. Section 329 - court review and disgorgement of debtor's transactions with attorneys</li>
+    <li>11 U.S.C. Section 330 - court approval of attorney compensation in bankruptcy</li>
+    <li>Federal Rule of Bankruptcy Procedure 9011 - court oversight of attorneys appearing in bankruptcy cases</li>
     <li>Bankruptcy court inherent authority over attorney misconduct in cases before it</li>
-    <li><a href="https://www.justice.gov/ust" rel="noopener" target="_blank">Office of the United States Trustee</a> - federal supervisory role over attorney conduct in bankruptcy cases, parallel to state disciplinary authority</li>
-    <li><a href="https://www.law.cornell.edu/rules/frcp/rule_37" rel="noopener" target="_blank">Federal Rule of Civil Procedure 37(e)</a> - federal codification of spoliation sanctions; companion authority for adverse-inference doctrine on non-production of evidence</li>
+    <li>Office of the United States Trustee - federal supervisory role over attorney conduct in bankruptcy cases, parallel to state disciplinary authority</li>
   </ul>
 
   <h3>Universal principle (no jurisdictional split)</h3>
@@ -763,7 +762,7 @@ cc: [supervising attorney / firm managing partner, if known]
 </main>
 
 <footer role="contentinfo">
-  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by <a href="https://openbankruptcyproject.org/donate.html">donations</a>.</p>
+  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
   <div class="footer-links">
     <a href="/">Home</a>
     <a href="/your-rights.html">Your Right to Communication</a>
@@ -778,10 +777,5 @@ cc: [supervising attorney / firm managing partner, if known]
 </footer>
 
 <script src="/btn-engage.js" defer></script>
-
-<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
-<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestions 26-BK-3 and 26-BK-5</a></p>
-</div>
-<script data-obp-counter-loader>(function(){var urls=["/data/counters.json","https://1328f.com/data/counters.json"];function tryNext(i){if(i>=urls.length)return;fetch(urls[i]).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){document.querySelectorAll("[data-obp-c]").forEach(function(e){var v=d[e.getAttribute("data-obp-c")];if(v)e.textContent=v})}).catch(function(){tryNext(i+1)})}tryNext(0)})();</script>
 </body>
 </html>
