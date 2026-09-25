@@ -1,5 +1,5 @@
 # Bankruptcy Lawyer Won't Call Back? - What to Do [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Bankruptcy lawyer ignoring your calls? Learn your rights, how to escalate, when to file a bar complaint, and how to protect your case. Step-by-step 2026 guide.
 
@@ -8,14 +8,40 @@ mybankruptcylawyerwontcallback.com is part of the Open Bankruptcy Project (openb
 
 ## Key Pages
 - How to File a Bar Complaint Against Your Bankruptcy Attorney: https://mybankruptcylawyerwontcallback.com/bar-complaints.html
-- How to Document Communication Failures: https://mybankruptcylawyerwontcallback.com/document-everything.html
+- Documenting Attorney Communication Failures [2026]: KRPC 1.4 Evidence Preservation for Bar Complaints: https://mybankruptcylawyerwontcallback.com/document-everything.html
 - Lawyer Won't Call Back FAQ - What to Do When Your Attorney Is Unresponsive: https://mybankruptcylawyerwontcallback.com/frequently-asked-questions.html
 - How to Escalate Communication Issues with Your Bankruptcy Attorney: https://mybankruptcylawyerwontcallback.com/how-to-escalate.html
 - Bankruptcy Lawyer Won't Call Back? - What to Do: https://mybankruptcylawyerwontcallback.com/
 - What to Do When Your Bankruptcy Lawyer Won't Call Back - Step-by-Step Guide: https://mybankruptcylawyerwontcallback.com/what-to-do.html
-- When to Fire Your Bankruptcy Attorney: https://mybankruptcylawyerwontcallback.com/when-to-fire.html
-- Your Right to Communication from Your Bankruptcy Attorney: https://mybankruptcylawyerwontcallback.com/your-rights.html
+- When to Fire Your Bankruptcy Attorney [2026]: KRPC 1.16 Withdrawal, 11 USC 329 Fee Disgorgement, and UST Complaints: https://mybankruptcylawyerwontcallback.com/when-to-fire.html
+- Right to Communication From Your Bankruptcy Attorney [2026]: KRPC 1.4 and Model Rule 1.4 Duties: https://mybankruptcylawyerwontcallback.com/your-rights.html
 - Privacy Policy: https://mybankruptcylawyerwontcallback.com/privacy.html
+- About mybankruptcylawyerwontcallback.com: https://mybankruptcylawyerwontcallback.com/about.html
+- Withdrawn Bankruptcy Attorney Won't Return Your File? - Your Rights Under MRPC 1.16(d): https://mybankruptcylawyerwontcallback.com/get-my-file.html
+- Binary-Forcing Notice with Conditional Variants | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/binary-forcing-notice.html
+- Reserved-Instrument Discipline (Variants A through E) | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/reserved-instrument-discipline.html
+- Zugzwang Net Architecture | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/zugzwang-net-architecture.html
+- Fraud-by-Accumulation Framework | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/fraud-by-accumulation-framework.html
+- Vague Adverse Characterization Pattern Catalog | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/vague-adverse-characterization-pattern.html
+- Documentary-Anchoring Discipline | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/documentary-anchoring-discipline.html
+- Channel-Independent Escalation Discipline | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/channel-independent-escalation.html
+- UPL Guardrail with Counsel-Gated Federal Channel Routing | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/upl-guardrail-counsel-gated-routing.html
+- Counsel-Readability Standard | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/counsel-readability-standard.html
+- Exemplar-Case-for-AI-in-Law Positioning | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/exemplar-case-for-ai-in-law.html
+- Five-Tier Graduated Punishment Ladder | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/five-tier-graduated-punishment-ladder.html
+- Soft Documentary Trap | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/soft-documentary-trap.html
+- Category-Substitution Refusal Pattern Detection | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/category-substitution-refusal-pattern.html
+- Disclosed-Facts + Opinion-from-the-Record Structure | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/disclosed-facts-opinion-from-record.html
+- CFO-Incentive Cross-Case Outreach Framework | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/cfo-incentive-cross-case-outreach.html
+- Adversary Public-Statement Rebuke Structure | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/adversary-public-statement-rebuke.html
+- Hold Posture as Information Warfare | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/hold-posture-as-information-warfare.html
+- Attribution Publication Sequence (Methodology then RECAP then Bar) | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/attribution-publication-sequence.html
+- Originating-Attorney Attribution Methodology | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/originating-attorney-attribution.html
+- Spoliation Is Historical Not Cured | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/spoliation-historical-not-cured.html
+- Forensic Complainant Filling Federal Vacuum | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/forensic-complainant-filling-vacuum.html
+- Surveillance-Legibility Preservation Discipline | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/surveillance-legibility-preservation.html
+- Claude-Parallel Labor Architecture | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/claude-parallel-labor-architecture.html
+- No-Facade Architecture Principle | My Bankruptcy Lawyer Won't Call Back: https://mybankruptcylawyerwontcallback.com/methodology/no-facade-architecture.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
